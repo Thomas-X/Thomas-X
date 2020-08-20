@@ -1,4 +1,4 @@
-![alt text](chrome_1s7scEQeam.png "Logo Title Text 1")
+![alt text](https://github.com/Thomas-X/Thomas-X/blob/master/chrome_1s7scEQeam.png "Logo Title Text 1")
 
 ### Hi there 👋
 
