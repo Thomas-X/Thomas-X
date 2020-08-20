@@ -1,8 +1,9 @@
+![alt text](chrome_1s7scEQeam.png "Logo Title Text 1")
+
 ### Hi there 👋
 
 - 📫 Reach me at: [my portfolio](https://thomaszwarts.dev)
 
-![portfolio][chrome_1s7scEQeam.png]
 
 <!--
 **Thomas-X/Thomas-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
