@@ -1,21 +1,8 @@
-![alt text](https://github.com/Thomas-X/Thomas-X/blob/master/chrome_1s7scEQeam.png "Logo Title Text 1")
+![me.png](https://github.com/Thomas-X/Thomas-X/blob/master/iPad%20mini%20-%201%20(1).png "Its me")
 
-### Hi there 👋
+# I hope I didn't scare you off with Hellvetica..
+I'm a passionate developer who enjoys a challenge, read more about me at https://thomaszwarts.dev
 
-- 📫 Reach me at: [my portfolio](https://thomaszwarts.dev)
-
-
-<!--
-**Thomas-X/Thomas-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ my favorite project so far has been Fitworld, check my gitlab for that.
+- 💜 I put the most love in Channelbot-3
+- 📱 interest in app development
