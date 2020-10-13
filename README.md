@@ -5,5 +5,5 @@ I'm a passionate developer who enjoys a challenge, so read more if you're intere
 
 - ⭐ my favorite project so far has been Fitworld, check my gitlab for that.
 - 💜 I put the most love in Channelbot-3
-- 📱 interest in app development
+- 🕸 fascination for anything web
 - 📃 below you can find some of my current favorite projects I've worked on during my spare time 
